@@ -1,0 +1,9 @@
+From LeetCode:
+
+Given a roman numeral, convert it to an integer.
+
+Input is guaranteed to be within the range from 1 to 3999.
+
+My solution:
+    Runtime: 128 ms
+    Runtime beats 93.87 % of python submissions.

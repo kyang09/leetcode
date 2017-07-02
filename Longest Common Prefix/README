@@ -1,0 +1,7 @@
+From LeetCode:
+
+Write a function to find the longest common prefix string amongst an array of strings.
+
+My solution:
+    Runtime: 42 ms
+    Runtime beats 80.68 % of python submissions.

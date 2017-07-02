@@ -1,0 +1,9 @@
+From LeetCode:
+
+Implement strStr().
+
+Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+My solution:
+    Runtime: 48 ms
+    Runtime beats 60.66 % of python submissions.

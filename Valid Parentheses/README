@@ -1,0 +1,9 @@
+From LeetCode's "Valid Parentheses":
+
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
+
+My solution:
+    Runtime: 42 ms
+    Runtime beats 76.49 % of python submissions.
